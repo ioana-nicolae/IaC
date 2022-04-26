@@ -11,8 +11,7 @@
     "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "displayLicenseViolations": false
+    "minSeverityLevel": "LOW"
   },
     "remediateSettings": {
     "workflowRules": {
